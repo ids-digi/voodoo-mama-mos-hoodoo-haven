@@ -14,6 +14,8 @@ const data = {
         "Photos by": {
             "name": "Annabel Prokopy",
             "email": "aprokopy@iu.edu",
+			"pfp": "https://s3.amazonaws.com/snwceomedia/ids/1feb24e6-801e-4bca-90e3-dd42d37e6e91.original.jpg",
+			"bio": "Annabel Prokopy works on the photo desk at the IDS and co-hosts the IDS Weekly News Rundown podcast."
         },
         "Design and development by": {
             "name": "Matei Cloteaux",
