@@ -1,34 +1,26 @@
 const data = {
-    "url": "your-url-here",
-    "slug": "Story slug",
-    "headline": "This is the headline",
-    "title": "Buildout Template",
-    "pub_date": "{insert your date in metadata.json}",
+    "url": "voodoo-mama-mos-hoodoo-haven",
+    "slug": "Hoodoo Haven",
+    "headline": "Inside Mama Mo's Hoodoo haven",
+    "title": "Hoodoo Haven",
+    "pub_date": "Feb. 26, 2026",
     "bylines": {
         "By": {
-            "name": "Cate Charron",
+            "name": "Mia Lehmkuhl",
             "email": "catchar@iu.edu",
-            "twitter": "catcharron",
-            "pfp": "https://pbs.twimg.com/profile_images/1499562155896619014/CUD2EvuV_400x400.jpg",
-            "bio": "Cate has worked at the IDS since 2019 as a reporter and designer."
+            "pfp": "https://s3.amazonaws.com/snwceomedia/ids/d9146ffb-eef6-4bb9-bbc7-ffbf1a274947.original.jpg",
+            "bio": "Mia Lehmkuhl has worked for the IDS since 2025 and is an enterprise editor."
         },
         "Photos by": {
-            "name": "Izzy Myszak",
-            "email": "izzymyszak@iu.edu",
-            "twitter": "izzymyszak"
+            "name": "Annabel Prokopy",
+            "email": "aprokopy@iu.edu",
         },
         "Design and development by": {
-            "name": "Carson TerBush",
-            "email": "cterbush@iu.edu",
-            "twitter": "carsonology",
-            "pfp": "https://pbs.twimg.com/profile_images/1477852735278129152/vk-AiTE6_400x400.jpg",
-            "bio": "Carson has worked at the IDS since 2019 as a reporter and designer."
+            "name": "Matei Cloteaux",
+            "email": "mcloteau@iu.edu",
+            "pfp": "https://s3.amazonaws.com/snwceomedia/ids/582468e2-d203-46f6-bbf2-3a83a4f981ec.original.jpg",
+            "bio": "Matei has worked at the IDS since 2023 for the digital desk. "
         },
-        "Graphics by": {
-            "name": "Vivek Rao",
-            "email": "vivrao@iu.edu",
-            "twitter": "vivrao"
-        }
     }
 }
 
