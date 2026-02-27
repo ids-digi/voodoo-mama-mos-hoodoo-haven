@@ -3,7 +3,7 @@ const data = {
     "slug": "Hoodoo Haven",
     "headline": "Inside Mama Mo's Hoodoo haven",
     "title": "Hoodoo Haven",
-    "pub_date": "Feb. 26, 2026",
+    "pub_date": "Feb. 27, 2026",
     "bylines": {
         "By": {
             "name": "Mia Lehmkuhl",
